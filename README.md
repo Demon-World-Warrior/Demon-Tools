@@ -3,7 +3,7 @@
 I have made Tool for Those Who have just started to learning hacking and pentesting.
 ******************************************************************************************
 Using:-
-	sudo git clone 
+	sudo git clone https://github.com/Demon-World-Warrior/Demon-Tools.git
 	cd Demon-Tools
 	sudo chmod +x *
 	./Start-Booster.sh
