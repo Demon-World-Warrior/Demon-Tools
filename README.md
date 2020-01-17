@@ -2,8 +2,12 @@
 
 I have made Tool for Those Who have just started to learning hacking and pentesting.
 ******************************************************************************************
-
-
+Using:-
+	sudo git clone 
+	cd Demon-Tools
+	sudo chmod +x *
+	./Start-Booster.sh
+________________________________________________________________________________________
 This Tool contains :-
 
 	1) Wireless attacking tool(airgeddon,fluxon,cowpatty.....)
