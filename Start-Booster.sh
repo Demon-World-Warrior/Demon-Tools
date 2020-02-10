@@ -16,8 +16,8 @@ echo
 echo    
 cd 
 sudo apt-get update && upgrade
-mkdir Demon-Tools
-cd Demon-Tools
+mkdir demon-Tools
+cd demon-Tools
 sudo apt-get install tor
 sudo apt-get install websploit
 sudo apt-get install beef-xss
@@ -75,6 +75,10 @@ sudo pip3 install urllib.request
 sudo pip insatll threading
 sudo pip3 install threading
 sudo pip insatll phonenumbers==8.10.2
+sudo git clone https://github.com/Demon-World-Warrior/All-Nepali-Phone-Number
+cd All-Nepali-Phone-Number
+chmod +x *
+cd ..
 sudo git clone https://github.com/M3-SEC/spoofmail.git
 cd spoofmail
 sudo chmod +x *
@@ -86,8 +90,8 @@ cd ..
 sudo git clone https://github.com/M3-SEC/set2.git
 cd set2
 sudo chmod +x *
-sudo git clone https://github.com/IAmBlackHacker/Facebook-BruteForce.git
-cd Facebook-BruteForce
+sudo git clone https://github.com/Demon-World-Warrior/Face-Book-Bruteforcer...git
+cd Face-Book-Bruteforcer..
 sudo chmod +x *
 cd ..
 sudo git clone https://github.com/arismelachroinos/lscript.git
@@ -144,6 +148,7 @@ sudo git clone https://github.com/HiroshiManRise/anonym8.git
 cd anonym8
 sudo chmod +x *
 cd .. 
+sudo git clone 
 echo               
 echo    
 echo  "      Thank You For Using Demon-Tool"
